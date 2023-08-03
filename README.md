@@ -7,11 +7,7 @@ You can take a look to the web page containing the embedded version of the inter
 Inspired greatly by https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/03-Publish-Your-Map.html#github-pages
 Noteworthy
 
-The dataset 
-
-With this interactive map you can pan to markers and look at information on invasive plants and insects throughout Central Park
-
-Data sources
+Data sources:
 
 In this map, we have utilized OpenStreetMap as a base map: OpenStreetMap. OpenStreetMap data is licenced with ODbL licence.
 Plant and Insect data was obtained from iNaturalist's export tool
