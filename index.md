@@ -1,10 +1,8 @@
 Invasives Map
 
-This is a testpage for a map of invasive plants and insects I created using publically available data.
+This is a testpage for a map of invasive plants and insects in the bounds of Central Park created using the export tool on iNaturalist and with additional personal observations.
 
-The data displayed on this map was originally pulled using the export tool on iNaturalist.
 
-Exploring the map
 
 You can explore the map either
 
