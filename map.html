@@ -33,6 +33,11 @@
         <script src="data/invasive_plantdata_1.js"></script>
         <script src="data/invasive_insectdata_2.js"></script>
         <script>
+        var highlightLayer;
+        function highlightFeature(e) {
+            highlightLayer = e.target;
+            highlightLayer.openPopup();
+        }
         var map = L.map('map', {
             zoomControl:true, maxZoom:28, minZoom:1
         }).fitBounds([[40.788465448727685,-73.96217890841693],[40.79958138262114,-73.95061523658744]]);
@@ -56,9 +61,22 @@
         layer_StamenTerrain_0;
         map.addLayer(layer_StamenTerrain_0);
         function pop_invasive_plantdata_1(feature, layer) {
+            layer.on({
+                mouseout: function(e) {
+                    if (typeof layer.closePopup == 'function') {
+                        layer.closePopup();
+                    } else {
+                        layer.eachLayer(function(feature){
+                            feature.closePopup()
+                        });
+                    }
+                },
+                mouseover: highlightFeature,
+            });
             var popupContent = '<table>\
                     <tr>\
-                        <th scope = "row">feature.properties['species_guess']</th>\
+                        <td colspan="2">' + (feature.properties['species_guess'] !== null ? autolinker.link(feature.properties['species_guess'].toLocaleString()) : '') + '</td>\
+                    </tr>\
                     <tr>\
                         <th scope="row">scientific_name</th>\
                         <td>' + (feature.properties['scientific_name'] !== null ? autolinker.link(feature.properties['scientific_name'].toLocaleString()) : '') + '</td>\
@@ -130,6 +148,18 @@
         bounds_group.addLayer(layer_invasive_plantdata_1);
         map.addLayer(layer_invasive_plantdata_1);
         function pop_invasive_insectdata_2(feature, layer) {
+            layer.on({
+                mouseout: function(e) {
+                    if (typeof layer.closePopup == 'function') {
+                        layer.closePopup();
+                    } else {
+                        layer.eachLayer(function(feature){
+                            feature.closePopup()
+                        });
+                    }
+                },
+                mouseover: highlightFeature,
+            });
             var popupContent = '<table>\
                     <tr>\
                         <td colspan="2">' + (feature.properties['species_guess'] !== null ? autolinker.link(feature.properties['species_guess'].toLocaleString()) : '') + '</td>\
