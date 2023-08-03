@@ -14,4 +14,4 @@ or
 
     via map embedding
 
-<iframe src="invasivemap.html" height="700" width="700"></iframe> 
+<iframe src="map.html" height="700" width="700"></iframe> 
