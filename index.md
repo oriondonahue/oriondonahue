@@ -1,15 +1,10 @@
-Invasives Map
+ethan donahue
 
-This is a testpage for a map of invasive plants and insects in the bounds of Central Park created using the export tool on iNaturalist and with additional personal observations.
+hello,
+i am a horticultural professional with a background in environmental science and microbiology. previously i studied the potential use of mealworms to breakdown styrofoam waste and created a pocket guide to wild yeast cultivation.
+
+these days i take care of plants in central park, i am primarily responsible for the care of the north meadow butterfly gardens https://www.centralparknyc.org/locations/north-meadow-butterfly-gardens, I became an ISA certified arborist in 2023 to formalize my knowledge of tree care. to aid me in my day to day i sometimes make maps and tools. 
+
+maps
 
 
-
-You can explore the map either
-
-    at full extent view via https://oriondonahue.github.io/oriondonahue/invasivemap.html
-
-or
-
-    via map embedding
-
-<iframe src="map.html" height="700" width="700"></iframe> 
