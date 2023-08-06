@@ -6,6 +6,11 @@
   </div>
 </div>
 
+<style type="text/css">
+  body {
+    background-color: ##AF94AA;
+  }
+</style>
 
 hello,
 i am a horticultural professional with a background in environmental science and microbiology. in college i studied the potential use of mealworms to breakdown styrofoam waste and created a pocket guide to wild yeast cultivation.
