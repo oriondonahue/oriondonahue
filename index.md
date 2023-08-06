@@ -29,10 +29,10 @@ these days i take care of plants in central park, i am primarily responsible for
    text-transform: uppercase;
   background-image: linear-gradient(
     -225deg,
-    #231557 0%,
-    #44107a 29%,
-    #ff1361 67%,
-    #fff800 100%
+    #178a45 0%,
+    #2c8a17 33%,
+    #668a17 66%,
+    #8a8a17 100%
   );
   background-size: auto auto;
   background-clip: border-box;
