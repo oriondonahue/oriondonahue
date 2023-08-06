@@ -12,13 +12,13 @@
   </div>
 </div>
 
-<h2>credentials</h2>
+<h2 style="color:#126e1b;">credentials</h2>
 BA Environmental Science and Microbiology - Hampshire College
 <br>
 ISA Certified Arborist
 <br><br>
 
-<h2>who am i</h2>
+<h2 style="color:#126e1b;">who am i</h2>
 Ethan Donahue is a horticulturist currently based in New York City. While writing his thesis on the ability of mealworms to consume and biodegrade styrofoam, he worked at the Hitchcock Center for the Environment in Amherst, MA taking care of the Center’s gardens and trails.
 
 Ethan currently works for the Central Park Conservancy in the north end of Central Park. If you walk through the north end on the East side, you’re likely to see one of the many Butterfly Gardens he’s responsible for, and the many areas he has improved upon since his time in Central Park. In his spare time, Ethan has used his data collection and mapping abilities to create tools to aid his work.
@@ -26,7 +26,7 @@ Ethan currently works for the Central Park Conservancy in the north end of Centr
 Questions? Feel free to reach out at: oriondonahue@gmail.com
 
 
-<h2>projects</h2>
+<h2 style="color:#126e1b;">projects</h2>
 
 <a href="https://oriondonahue.github.io/NMBG" target="_blank">North Meadow Butterfly Gardens</a>
 <br>
