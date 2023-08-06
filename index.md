@@ -1,4 +1,4 @@
-<h1>ethan donahue</h1>
+<h1 style="color:#FF5733;">ethan donahue</h1>
 
 hello,
 i am a horticultural professional with a background in environmental science and microbiology. in college i studied the potential use of mealworms to breakdown styrofoam waste and created a pocket guide to wild yeast cultivation.
