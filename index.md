@@ -8,7 +8,7 @@
 
 <style type="text/css">
   body {
-    background-color: #f0dff5;
+    background-color: #f3ebf5;
   }
 </style>
 
@@ -32,11 +32,9 @@ these days i take care of plants in central park, i am primarily responsible for
   background-image: linear-gradient(
     -225deg,
     #126e1b 0%,
-    #296e12 20%,
-    #406e12 40%,
-    #686e12 60%
-    #6e5c12 80%
-    #6e4012 100%
+    #296e12 33%,
+    #406e12 67%,
+    #686e12 100%
   );
   background-size: auto auto;
   background-clip: border-box;
