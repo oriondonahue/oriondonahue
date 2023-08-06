@@ -8,7 +8,7 @@
 
 <style type="text/css">
   body {
-    background-color: #e3cfdf;
+    background-color: #f0dff5;
   }
 </style>
 
