@@ -1,5 +1,11 @@
 <h1 style="color:#178a45;">ethan donahue</h1>
-
+<div class="container">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <h1 class="animate-character"> ethan donahue</h1>
+    </div>
+  </div>
+</div>
 
 
 hello,
@@ -14,19 +20,11 @@ these days i take care of plants in central park, i am primarily responsible for
 
 
 
-<div class="container">
-  <div class="row">
-    <div class="col-md-12 text-center">
-      <h3 class="animate-charcter"> EKOSH</h3>
-    </div>
-  </div>
-</div>
-
 
 <style>
 .animate-charcter
 {
-   text-transform: uppercase;
+   text-transform: lowercase;
   background-image: linear-gradient(
     -225deg,
     #178a45 0%,
