@@ -1,4 +1,3 @@
-<h1 style="color:#178a45;">ethan donahue</h1>
 <div class="container">
   <div class="row">
     <div class="col-md-12 text-center">
@@ -22,7 +21,7 @@ these days i take care of plants in central park, i am primarily responsible for
 
 
 <style>
-.animate-charcter
+.animate-character
 {
    text-transform: lowercase;
   background-image: linear-gradient(
