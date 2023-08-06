@@ -50,10 +50,10 @@ Questions? Feel free to reach out at: oriondonahue@gmail.com
    text-transform: lowercase;
   background-image: linear-gradient(
     -225deg,
-    #20754f 0%,
-    #207532 33%,
-    #207542 67%,
-    #206e75 100%
+    #2cad49 0%,
+    #1eded7 33%,
+    #d6ba56 67%,
+    #2cad49 100%
   );
   background-size: auto auto;
   background-clip: border-box;
