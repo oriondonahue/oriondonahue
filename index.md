@@ -46,7 +46,7 @@ these days i take care of plants in central park, i am primarily responsible for
   text-fill-color: transparent;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: textclip 2s linear infinite;
+  animation: textclip 3s linear infinite;
   display: inline-block;
       font-size: 190px;
 }
