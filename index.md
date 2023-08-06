@@ -15,7 +15,7 @@
 <h2 style="color:#126e1b;">credentials</h2>
 BA Environmental Science and Microbiology - Hampshire College
 <br>
-ISA Certified Arborist
+ISA Certified Arborist <a href="https://certificates.isa-arbor.com/d7923450-8378-4048-9a57-9217ac3972ea#gs.u8nf74" target="blank">(link to credential)</a>
 <br><br>
 
 <h2 style="color:#126e1b;">who am i</h2>
@@ -28,7 +28,7 @@ Questions? Feel free to reach out at: oriondonahue@gmail.com
 
 <h2 style="color:#126e1b;">projects</h2>
 
-<a href="https://oriondonahue.github.io/NMBG" target="_blank">North Meadow Butterfly Gardens</a>
+North Meadow Butterfly Gardens <a href="https://www.centralparknyc.org/locations/north-meadow-butterfly-gardens" target="_blank">(link to Central Park Conservancy site)</a>
 <br>
 <a href="https://oriondonahue.github.io/maps" target="_blank">Central Park Invasives Map</a>
 <br>
